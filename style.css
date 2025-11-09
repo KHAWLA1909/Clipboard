@@ -87,22 +87,18 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 40px;
     background-color: rgb(219, 212, 212);
 }
 
 .more a {
-    display: flex;
-    padding: 19px;
     background-color: white;
     border-radius: 16px 18px;
-    text-align: center;
 }
 
 .keep {
+    display: inline;
     align-items: center;
     justify-content: space-between;
     border-radius: 20%;
-    padding: 16px 18px;
     background-color: rgb(219, 212, 212);
 }
